@@ -1,4 +1,4 @@
-<ActivityStreamModel description="" name="abcde" timezone="Asia/Shanghai" daylight="false" is_init="false">
+<ActivityStreamModel description="v2" name="abcde" timezone="Asia/Shanghai" daylight="false" is_init="false">
   <ModelInfo validated="false">
     <Samples>
     </Samples>
