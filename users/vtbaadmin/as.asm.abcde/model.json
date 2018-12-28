@@ -5,7 +5,7 @@
   }],
   "owner": "vtbaadmin",
   "properties": {
-    "_RESOURCE_Description": "v4",
+    "_RESOURCE_Description": "v5",
     "_RESOURCE_Type": "asm",
     "__references__": "",
     "com.vitria.as.references": "#",
