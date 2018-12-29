@@ -1,4 +1,4 @@
-<ActivityStreamModel description="v5" name="abcde" timezone="Asia/Shanghai" daylight="false" live="true">
+<ActivityStreamModel description="v6 on 5.75" name="abcde" timezone="Asia/Shanghai" daylight="false" live="true">
   <ModelInfo validated="true">
     <Source>
       <DataSource type="NotifiableRESTSource" connectionTestable="false">
